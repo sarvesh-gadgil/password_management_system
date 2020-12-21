@@ -1,1 +1,3 @@
-# password_management_system
+# Password Management System in Bash
+
+The Password Management System stores login-password details securely in encrypted format. It also has a feature to generate random password based upon the client’s decision. Clients have the ability edit, delete, view all the login and password details. Also, clients are able to view tree structure of any of the folders along with the files inside these folders. The system also contains proper error handing like validating requests, prevention of overwriting and duplicate entries, user validation, service validation etc. Moreover, it achieves synchronization for multiple clients using named pipes in Bash.
